@@ -2,8 +2,9 @@
 
 ## Steps to repro
 
-1. run `npm start`
-2. notice the following error:
+1. clone repo
+1. run `npm i && npm start`
+1. notice the following error:
 
 ```
 node_modules/@esri/calcite-components/dist/types/components.d.ts:5077:15 - error TS2320: Interface 'HTMLCalciteMenuElement' cannot simultaneously extend types 'CalciteMenu' and 'HTMLStencilElement'.
