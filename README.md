@@ -1,4 +1,4 @@
-# Repro case for error caused when building with TS5 (strict) and calcite-components@1.4.0
+# Repro case for error caused when building with TS (strict) and calcite-components@1.4.0
 
 ## Steps to repro
 
