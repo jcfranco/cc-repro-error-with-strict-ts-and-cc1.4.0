@@ -1,0 +1,16 @@
+{
+  "name": "cc-repro-case-ts5-cc140",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@esri/calcite-components": "^1.4.0",
+    "@types/sortablejs": "^1.15.1",
+    "typescript": "^5.0.4"
+  }
+}
